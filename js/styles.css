@@ -1,0 +1,11 @@
+.cats p {
+  font-weight: bold;
+  background-color: coral;
+  color: blue;
+}
+.dogs p {
+  background-color: steelblue;
+  background-color: yellow;
+  font-style: italic;
+
+}
