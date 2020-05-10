@@ -4,7 +4,7 @@ This is an Web Design Portfolio Single Page Application.
 ## AUTHOR:
 Martin Sila Mandina
 ## BDD
-Events include alerting the user when they submit the contact form, hovering text when the user puts mouse over portfolio icons, and displaying text when the user clicks the what we do icons. 
+Events include alerting the user when they submit the contact form, hovering text when the user puts mouse over portfolio icons, and displaying text when the user clicks the what we do icons.
 ## TECHNOLOGIES
 the technologies used include
 ### css,
@@ -12,7 +12,10 @@ the technologies used include
 ### HTML5
 ### JQuery
 ### Bootstrap
-
+## DEPENDENCIES
+The Project uses the JQuery javascript library and Google Fonts;
+## SETUP & INSTALLATION INSTRUCTIONS
+The project runs online so requires hosting or if being run offline it requires an internet connection to use the online google fonts.JQuery library is already bundled within the project files.
 ## CONTACT INFORMATION
 Martin Sila Mandina
 P.O. Box 70055 - 00400 Nairobi, Kenya
