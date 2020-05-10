@@ -26,6 +26,47 @@ input[type="text"]
 @media screen and (max-width: 800px) {
   .left, .main, .right {
     width: 100%;
-  }
 }
-/* hover effect on the images*/
+}
+top{
+  color:white;
+  text-align: center;
+  background-image: url('../assets/backgrounds/h_img.jpg');
+  height:100%;
+  background-size: contain;
+  background-size: cover;
+}
+
+#aboutus  {
+
+  backround-color:ff0000;
+  text-align: center;
+}
+#services {
+  color:white;
+  text-align: center;
+  background-image: url('../assets/backgrounds/s_image.jpg');
+  height:50%;
+}
+
+#whatwedo {
+  text-align: center;
+  width:100%;
+  font-size: 9px;
+  background-color:white;
+  justify-content: space-evenly;
+}
+#portfolio{
+  width:100%;
+  background-color:white;
+}
+
+#contactus{
+  color:#ffffff;
+  text-align: center;
+  background-image: url('../assets/backgrounds/c_image.jpg');
+  height:50%;
+}
+.toggleme{
+  display:none;
+}

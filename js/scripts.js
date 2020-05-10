@@ -1,0 +1,15 @@
+$(document).ready(function(){
+  $("#design").click(function(){
+    $("#p_design").toggle(250);
+  });
+  });
+$(document).ready(function(){
+    $("#development").click(function(){
+      $("#p_development").toggle(200);
+    });
+    });
+$(document).ready(function(){
+      $("#production").click(function(){
+        $("#p_production").toggle(150);
+      });
+      });
