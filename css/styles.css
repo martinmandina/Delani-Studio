@@ -12,7 +12,12 @@ body{
   padding-left: 80px;
   text-align: center;
 }
-
+input[type="text"]
+{
+    background: transparent;
+    border:solid 1px;
+    border-color: grey;
+}
 @media screen and (max-width: 800px) {
   .left, .main, .right {
     width: 100%;
