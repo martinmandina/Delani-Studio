@@ -19,10 +19,17 @@ input[type="text"]
     border-color: white;
     color: white;
 }
-#message {
+#message
+{
+    background: transparent;
+    border:solid 1px;
+    border-color: white;
+    color: white;
+}
+/*#message {
   color: white;
   vertical-align: top;
-}
+}*/
 @media screen and (max-width: 800px) {
   .left, .main, .right {
     width: 100%;
