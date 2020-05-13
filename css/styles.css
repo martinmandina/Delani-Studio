@@ -76,7 +76,7 @@ input[type="text"]
 .toggleme{
   display:none;
 }
-/*HOVER  IMAGE CODE */
+
 .container {
   position: relative;
   width: 15%;
@@ -104,9 +104,9 @@ input[type="text"]
 .container:hover .overlay {
   opacity: 0.8;
 
-/* transparency */
+
 filter: alpha(opacity=80);
-/* IE transparency */
+
 }
 
 .text {
